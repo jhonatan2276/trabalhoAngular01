@@ -1,0 +1,15 @@
+Em Server:
+BAIXAR DEPENDÊNCIAS:
+npm install
+npm install --save cors
+npm install --save express
+
+RODAR SERVER:
+node index.js
+
+Em Uusuário:
+BAIXAR DEPENDÊNCIAS:
+npm install
+
+RODAR SERVER:
+ng serve
