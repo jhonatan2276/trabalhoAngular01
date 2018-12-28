@@ -1,4 +1,4 @@
 ## Jhonatan William Voltolini
 
 ## Observações:
-- Trabalho final de Disciplina de Node.js e Angular.
+- Trabalho Final da Disciplina de Node.js e Angular.
